@@ -45,6 +45,9 @@ ul.nav_bar li {
     text-align: center;
 }
 
+.no-underline {
+    text-decoration: none;
+}
 
 .background {
     height: 120vh;
@@ -57,8 +60,6 @@ ul.nav_bar li {
 
     align-items: center;
     justify-content: center;
-
-
 }
 
 .explore {
